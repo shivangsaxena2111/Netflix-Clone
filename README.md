@@ -5,17 +5,17 @@ This project is a front-end clone of Netflix, aiming to replicate its user inter
 ## Table of Contents
 
 - [Overview](#overview)
+- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
 The Netflix Clone project is designed to mimic the look and feel of Netflix's homepage. It serves as a practice project to enhance skills in HTML and CSS by recreating a popular streaming platform's interface.
+
+## Demo
+
+You can view a live demo of the Anon eCommerce Website here: [Live Demo](http://127.0.0.1:5500/Netflix%20clone/index.html)
 
 ## Features
 
